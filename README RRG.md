@@ -24,7 +24,7 @@ Red River Gorge National Geological Area (Arches)
 
 **Skybridge Map**
 
-![Skybridge Map](graphics/skyMAP.png)
+![Skybridge Map](graphics/skyMap.png)
 
 
 **Video of Skybridge**
