@@ -22,13 +22,9 @@ Red River Gorge National Geological Area (Arches)
 
 # Lab 7
 
-Part 1
-
 **Black Mountain Overlook**
 
 ![Black Mountain Overlook](graphics/bmoMap.png)
-
-Part 2
 
 
 **Video of Black Mountain**
@@ -40,4 +36,4 @@ Part 2
 **Potree of Black Mountain**
 
 ![Potree Screenshot](graphics/potreeScreen.JPG)
-[Link to Potree](http://127.0.0.1:5500/BlackMountain/potree/)
+[Link to Potree](https://apa299.github.io/rrg/potree/)
