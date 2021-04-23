@@ -4,9 +4,9 @@ Red River Gorge National Geological Area (Arches)
 
 **A Base Map of Arches**
 
-![GeoPDF of Arches](graphics/rrgArches.png)
+![GeoPDF of Arches](graphics/rrgNew.png)
 
-[Download a GeoPDF of Arches](basemap/rrg.pdf)
+[Download a GeoPDF of Arches](basemap/rrgNewRed.pdf)
 
 
 **Photos of Skybridge**
