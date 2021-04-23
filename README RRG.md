@@ -22,7 +22,7 @@ Red River Gorge National Geological Area (Arches)
 
 # Lab 7
 
-**Skybridge Map**
+**Skybridge Overview**
 
 ![Skybridge Map](graphics/skyMap.png)
 
