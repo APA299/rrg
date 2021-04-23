@@ -11,10 +11,10 @@ Red River Gorge National Geological Area (Arches)
 **Photos of Gray's Arch**
 
 ![Gray's Arch 1](graphics/greys-arch.jpg)
-*From ToRedRiverGorge.com
+*From ToRedRiverGorge.com*
 
 ![Gray's Arch 2](graphics/KY-GraysArch.jpg)
-*From NaturalArches.org
+*From NaturalArches.org*
 
 # Lab 7
 
