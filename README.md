@@ -41,4 +41,3 @@ Part 2
 
 ![Potree Screenshot](graphics/potreeScreen.JPG)
 [Link to Potree](http://127.0.0.1:5500/BlackMountain/potree/)
-[Link to Potree](potree/index.html)
