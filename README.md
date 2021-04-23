@@ -4,7 +4,7 @@ Red River Gorge National Geological Area (Arches)
 
 **A Base Map of Arches**
 
-![Download a GeoPDF of Arches](graphics/rrg.pdf)
+![GeoPDF of Arches](graphics/rrgArches.png)
 
 [Download a GeoPDF of Arches](graphics/rrg.pdf)
 
@@ -25,4 +25,5 @@ Part 2
 
 **Potree of Black Mountain**
 
+![Potree Screenshot](graphics/potreeScreen.JPG)
 [Link to Potree](http://127.0.0.1:5500/BlackMountain/potree/)
