@@ -1,0 +1,122 @@
+{
+	"version": "2.0",
+	"name": "merge",
+	"description": "",
+	"points": 998078,
+	"projection": "",
+	"hierarchy": {
+		"firstChunkSize": 8030, 
+		"stepSize": 4, 
+		"depth": 4
+	},
+	"offset": [5755534.0200000005, 3504605.5800000001, 3953.6199999999999],
+	"scale": [0.01, 0.01, 0.01],
+	"spacing": 9.3738281249970896,
+	"boundingBox": {
+		"min": [5755534.0200000005, 3504605.5800000001, 3953.6199999999999], 
+		"max": [5756733.8700000001, 3505805.4299999997, 5153.4699999996274]
+	},
+	"encoding": "DEFAULT",
+	"attributes": [
+		{
+			"name": "position",
+			"description": "",
+			"size": 12,
+			"numElements": 3,
+			"elementSize": 4,
+			"type": "int32",
+			"min": [5755534.0200000005, 3504605.5800000001, 3953.6199999999999],
+			"max": [5756733.8700000001, 3505805.3999999999, 4324.7300000000005]
+		},{
+			"name": "intensity",
+			"description": "",
+			"size": 2,
+			"numElements": 1,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [1],
+			"max": [860]
+		},{
+			"name": "return number",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [1],
+			"max": [4]
+		},{
+			"name": "number of returns",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [1],
+			"max": [4]
+		},{
+			"name": "classification flags",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [0],
+			"max": [0]
+		},{
+			"name": "classification",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [1],
+			"max": [7]
+		},{
+			"name": "user data",
+			"description": "",
+			"size": 1,
+			"numElements": 1,
+			"elementSize": 1,
+			"type": "uint8",
+			"min": [32],
+			"max": [32]
+		},{
+			"name": "scan angle",
+			"description": "",
+			"size": 2,
+			"numElements": 1,
+			"elementSize": 2,
+			"type": "int16",
+			"min": [166],
+			"max": [4666]
+		},{
+			"name": "point source id",
+			"description": "",
+			"size": 2,
+			"numElements": 1,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [308],
+			"max": [309]
+		},{
+			"name": "gps-time",
+			"description": "",
+			"size": 8,
+			"numElements": 1,
+			"elementSize": 8,
+			"type": "double",
+			"min": [316386.81179600005],
+			"max": [317713.99152800004]
+		},{
+			"name": "rgb",
+			"description": "",
+			"size": 6,
+			"numElements": 3,
+			"elementSize": 2,
+			"type": "uint16",
+			"min": [0, 0, 0],
+			"max": [62708, 61680, 59881]
+		}
+	]
+}
